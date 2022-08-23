@@ -1,0 +1,14 @@
+1) apa itu variable > tempat menyimpan suatu nilai
+2) apa pentingnya variable > sebagai wadah dan dapat digunakan kembali sesuai kondisi
+3) mendeklarasikan variable > let nama, const id, var alamat
+4) Mengisi variable dengan nilai atau value > let nama = 'alamat'
+5) memberi nama variable yang baik > let namaLengkap
+6) apa itu tipe data > tipe yang digunakan sebagai klasifikasi apakah itu string, number atau yang lain
+7) berbagai jenis tipe data > number, string, boolean
+8) tipe data number dan pengoperasiannya > let angkaHoki = 23; console.log(angkaHoki);
+9) tipe data string dan pengoperasiannya > let nama = 'Almas'; console.log(nama + 'Firdaus);
+10) tipe data boolean > let belajar = true;
+11) bagaimana mengetahui tipe data dari sebuah variable > menggunakan typeof
+12) apa itu array > sebuah wadah yang dapat menyimpan beberapa nilai dengan tipe data yang berbeda
+13) apa itu jenis array > single dan multidimensi
+14) mengisi array > let buah = ["apel", "pear"]
